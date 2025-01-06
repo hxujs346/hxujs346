@@ -2,7 +2,7 @@ Guan Syun Chen
 
 Birthday: 2003/01/29
 
-Education:輔仁大學/ 電機工程學系
+Education:Fu Jen Catholic University/ Department of Electrical Engineering
 
 Location: New Taipei City
 
